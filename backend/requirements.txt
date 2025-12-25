@@ -11,6 +11,7 @@ alembic==1.13.1
 # Pydantic for validation
 pydantic==2.5.3
 pydantic-settings==2.1.0
+email-validator==2.1.0.post1
 
 # API integrations
 httpx==0.26.0
